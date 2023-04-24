@@ -1,6 +1,6 @@
 # flutter_eco_mmerce
 
-A new Flutter project.
+FRONT-END
 
 ## Getting Started
 
